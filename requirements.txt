@@ -1,0 +1,16 @@
+fastapi==0.104.1
+uvicorn==0.23.2
+python-multipart==0.0.6
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.0
+pydantic==2.4.2
+sqlalchemy==2.0.23
+mysql-connector-python==8.1.0
+python-magic==0.4.27
+qrcode[pil]==7.4.2
+pillow==10.1.0
+python-dateutil==2.8.2
+email-validator==2.1.0.post1
+reportlab==4.0.9
+PyPDF2==3.0.1
